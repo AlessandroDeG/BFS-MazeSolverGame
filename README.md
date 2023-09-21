@@ -10,7 +10,7 @@ Then turned it into a game!
 
 -Watch a mouse solve it by using the shortest path.
 
--Press Enter again to solve it in reverse.
+-Press ENTER again to solve it in reverse.
 
 
 

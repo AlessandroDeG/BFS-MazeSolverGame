@@ -1,6 +1,6 @@
 # BFS-MazeSolverGame
 
-Implemented a variation of BFS algorithms while attending Algorithm and Complexity class for my AI master at USI. 
+Implemented my variation of BFS algorithms while attending Algorithm and Complexity class for my AI master at USI. 
 
 Then turned it into a game!
 
